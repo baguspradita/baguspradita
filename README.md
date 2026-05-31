@@ -38,7 +38,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/baguspradita/baguspradita/snake-output/snake.svg" alt="Snake animation" />
+
 
 ###
 
