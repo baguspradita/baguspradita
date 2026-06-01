@@ -11,7 +11,7 @@
 
 
 #### Connect With Me
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/baguspradita) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bagus-pradita)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/bagusprdt_) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bagus-pradita)
 
 #### My Github Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baguspradita&theme=default)
