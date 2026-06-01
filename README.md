@@ -2,6 +2,10 @@
 
 ![Bagus Pradita](img/github-header-banner.png)
 
+### About Me
+
+I am an Informatics student who is passionate about software development and problem solving. My primary focus is backend development, where I enjoy building reliable systems, managing databases, and creating efficient APIs. Through academic and personal projects, I continue to develop my technical skills while gaining practical experience in modern web technologies and software engineering principles.
+
 #### Skills
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,bootstrap,laravel,nodejs,react,express,tailwind,mysql,postgres)](https://skillicons.dev)
 
