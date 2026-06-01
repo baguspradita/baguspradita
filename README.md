@@ -3,15 +3,15 @@
 ![Bagus Pradita](img/github-header-banner.png)
 
 #### Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,bootstrap,laravel,nodejs,react,nextjs,tailwind,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,bootstrap,laravel,nodejs,react,express,tailwind,mysql,postgres)](https://skillicons.dev)
 
 #### Tools
-[![My Skills](https://skillicons.dev/icons?i=postman,supabase,vscode,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,supabase,vscode,vercel,)](https://skillicons.dev)
 
 
 
 #### Connect With Me
-![https://instagram.com/baguspradita](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/bagus-pradita](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.threads.com/@bagusprdt_](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
+[![https://instagram.com/baguspradita](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev) [![https://www.linkedin.com/in/bagus-pradita](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 #### My Github Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baguspradita&theme=default)
