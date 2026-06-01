@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,bootstrap,laravel,nodejs,react,express,tailwind,mysql,postgres)](https://skillicons.dev)
 
 #### Tools
-[![My Skills](https://skillicons.dev/icons?i=postman,supabase,vscode,vercel,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,supabase,vscode,vercel,)]
 
 
 
